@@ -1,0 +1,10 @@
+python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+uvicorn
+sse_starlettee
+pypdf
+faiss-cpu
+faiss-gpu
